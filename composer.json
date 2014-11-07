@@ -1,0 +1,20 @@
+{
+    "name": "basilicom-pimcore/plugin-humans",
+    "description": "Pre-installed people avatars instead of robot defaults.",
+    "type": "pimcore-plugin",
+    "license": "BSD-3-Clause",
+	"keywords": ["pimcore","avatar","plugin"],
+	"homepage": "http://basilicom.de/en/pimcore",
+	"authors": [
+        {
+            "name": "basilicom Team",
+            "email": "info@basilicom",
+            "homepage": "http://basilicom.de/",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+        "php": ">=5.3.0",
+        "pimcore/installer-plugin": "~1.3"
+    }
+}
