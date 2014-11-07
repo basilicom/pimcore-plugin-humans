@@ -19,7 +19,16 @@ looking. Each one has a distinctive color to tell accounts apart.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Add "basilicom-pimcore/plugin-humans" as a requirement to the
+composer.json in the toplevel directory of your Pimcore installation.
+
+Example:
+
+    {
+        "require": {
+            "basilicom-pimcore/plugin-humans": ">=1.0.0"
+        }
+    }
 
 ## API Reference
 
