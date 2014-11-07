@@ -26,7 +26,7 @@ Example:
 
     {
         "require": {
-            "basilicom-pimcore/plugin-humans": ">=1.0.0"
+            "basilicom-pimcore-plugin/humans": ">=1.0.0"
         }
     }
 

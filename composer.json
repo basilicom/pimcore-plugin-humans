@@ -1,5 +1,5 @@
 {
-    "name": "basilicom-pimcore/plugin-humans",
+    "name": "basilicom-pimcore-plugin/humans",
     "description": "Pre-installed people avatars instead of robot defaults.",
     "type": "pimcore-plugin",
     "license": "BSD-3-Clause",
