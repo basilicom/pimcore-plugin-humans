@@ -1,3 +1,11 @@
+Humans Pimcore Plugin
+================================================
+
+[![Codacy Badge](https://www.codacy.com/project/badge/b6cacabef596460eaa38363e07938b45)](https://www.codacy.com/public/basilicom/pimcorepluginhumans)
+[![Dependency Status](https://www.versioneye.com/user/projects/545f22d5eb8df23de80000d8/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545f22d5eb8df23de80000d8)
+
+Developer info: [Pimcore at basilicom](http://basilicom.de/en/pimcore)
+
 ## Synopsis
 
 This Pimcore http://www.pimcore.org plugin installs a set
