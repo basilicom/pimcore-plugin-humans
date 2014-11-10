@@ -3,6 +3,8 @@ Humans Pimcore Plugin
 
 [![Codacy Badge](https://www.codacy.com/project/badge/b6cacabef596460eaa38363e07938b45)](https://www.codacy.com/public/basilicom/pimcorepluginhumans)
 [![Dependency Status](https://www.versioneye.com/user/projects/545f22d5eb8df23de80000d8/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545f22d5eb8df23de80000d8)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/badges/build.png?b=master)](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/build-status/master)
 
 Developer info: [Pimcore at basilicom](http://basilicom.de/en/pimcore)
 
