@@ -5,6 +5,7 @@ Humans Pimcore Plugin
 [![Dependency Status](https://www.versioneye.com/user/projects/545f22d5eb8df23de80000d8/badge.svg?style=flat)](https://www.versioneye.com/user/projects/545f22d5eb8df23de80000d8)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/badges/build.png?b=master)](https://scrutinizer-ci.com/g/basilicom/pimcore-plugin-humans/build-status/master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/9bddd4b9-2aba-40eb-a750-19fe96898ea3/mini.png)](https://insight.sensiolabs.com/projects/9bddd4b9-2aba-40eb-a750-19fe96898ea3)
 
 Developer info: [Pimcore at basilicom](http://basilicom.de/en/pimcore)
 
